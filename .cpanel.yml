@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/
-    - bin/ssg6 src $DEPLOYPATH
+    - /bin/cp -R src $DEPLOYPATH

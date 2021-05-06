@@ -1,0 +1,20 @@
+body {
+    background: #252525;
+    color: #EFEFEF;
+}
+
+.fancyTitle{
+    text-align: center;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
